@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856393232793",
+    "project_id": "thuchanhdnt-79549",
+    "storage_bucket": "thuchanhdnt-79549.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856393232793:android:b17e76eee71c4708dde308",
+        "android_client_info": {
+          "package_name": "com.thdanentang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv9ULtfYXMl1MlalsE-Q844ZrATwmVxqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+} 
